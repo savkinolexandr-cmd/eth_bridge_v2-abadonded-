@@ -5,7 +5,8 @@ Controller: Realtek RTL8152B-VB-CG  – 10/100M Ethernet Controller.
 RJ45 MagJack with integrated isolation transformers and status LEDs.
 Power: 100% bus-powered via AP2112K-3.3V LDO stepping down the smartphone's +5V VBUS.
 
-<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/61aa624e-7fc3-4e39-9bb5-7554d3a4c0db" />
+<img width="786" height="391" alt="image" src="https://github.com/user-attachments/assets/88a25437-c473-4f68-b072-980e9ed90afd" />
+
 
 
 not realized in real life
